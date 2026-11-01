@@ -1,6 +1,7 @@
-#  Hi, I’m Nitesh Sah
-
 ##  About Me
+
+#  Hi, I’m Nitesh Sah
+**a little techy but more natural. Despite of being an AI Engineer with Machine Learning subdomain, I choose to be human while training models. Making sure, they can choose dafety of human over upgrading AI.**
 
 *  Interested in **Artificial Intelligence, Machine Learning, and Data Engineering**
 *  Currently exploring **Information Retrieval, Neural Networks, Statistical Models, Multimodel Systems, and Search Systems**
